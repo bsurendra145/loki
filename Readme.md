@@ -1,4 +1,4 @@
-# Loki and Grafana Setup on Kyma
+# Loki and Grafana Setup on SAP Kyma
 
 This document outlines the steps to set up Loki for log aggregation and Grafana for monitoring and visualization within a Kyma environment.
 
